@@ -1,6 +1,6 @@
 # Progression and effects of the COVID-19 virus in South Korea
 
-## Projection Motivation and Objectives
+## Project Motivation and Objectives
 The COVID-19 virus is an incisive event in the 21st century and nearly every country and indiviuum is effected in one way or another. The situation sparks questions like: 
 
 - How dangerous is the virus, and how is risk for different demographic groups
