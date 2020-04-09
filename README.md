@@ -6,14 +6,14 @@ The COVID-19 virus is an incisive event in the 21st century and nearly every cou
 - How dangerous is the virus, and how is risk for different demographic groups
 - How does the virus progress
 - What is the course of the decease 
-- Is it possible to create a model based on transferable demographic and 
+- Is it possible to create a model based on transferable demographic and infrastructural features
 
 These questions are tried to be answered using the Cross-Industry Standard Process of Data Mining (CRISP-DM) on the basis of the progression of the virus in South Korea with a [Kaggle Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset/data). The analysis serves as basis for a [Medium blog post](https://medium.com/@schlotzi88/analysis-of-the-covid-19-progression-and-effects-in-south-korea-99e8e0dcc440) for my Udacity Data Science course.
 
 ## File Description
 - Analysis in the descriptive Jupyter Notebook analysis.ipynb
 - Data:
-    Data from the [Kaggle Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset/data) is located coronavirusdataset in the consists of 11 csv files, the following table gives a quick summary
+    Data from the [Kaggle Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset/data) is located coronavirusdataset it consists of 11 csv files, the following table gives a quick summary
 
     File| Description 
     -- | --
@@ -36,7 +36,7 @@ For a the full text, please visit the published [Medium blog post](https://mediu
 
 ### Quick summary of the analyis and the results
 - Data from Kaggle was combined with additional data about population and population density scraped from [City Population](https://citypopulation.de/)
-- Data was analysed statistical using statisical methods to estimate the risk and effects of the virus for different demographic groups
+- Data was analysed using statisical methods to estimate the risk and effects of the virus for different demographic groups
 - The influence of infrastructual and demographic features on the spread of the virus was investigated using correlation analysis
 - It was tried to understand the way the virus spread and comprehend the course of the pandemic in for South Korea
 - The course of the decease was analysed for different demographic groups using statistical methods to examine possible differences
