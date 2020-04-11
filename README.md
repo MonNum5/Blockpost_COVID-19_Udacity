@@ -43,7 +43,7 @@ For a the full text, please visit the published [Medium blog post](https://mediu
 
 
 # Installation
-Please run pip install requirements.txt
+Please run pip install -r requirements.txt
 
 ## If you can want to run the file in a new enviroment:
 - Make sure conda is installed (Best practice, set up with virtualenv is not tested)
